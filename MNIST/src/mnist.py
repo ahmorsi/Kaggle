@@ -24,7 +24,7 @@ test_data=[] 												# Create a variable to hold the data
 
 for row in csv_file_object:
     test_data.append(row[0:])
-test_data = np.array(test_data);
+test_data = np.array(test_data)
 
 print("Predicating")
 output = forest.predict(test_data).astype(int)

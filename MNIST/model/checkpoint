@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ahmed/Work/Tutorials/Kaggle/MNIST/model/cnn_model.ckpt"
+all_model_checkpoint_paths: "/home/ahmed/Work/Tutorials/Kaggle/MNIST/model/cnn_model.ckpt"
